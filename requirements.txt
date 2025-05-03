@@ -1,0 +1,12 @@
+selenium
+chromedriver-binary
+opencv-python
+albumentations
+torch
+torchvision
+ultralytics
+pycocotools
+requests
+matplotlib
+Pillow
+numpy
